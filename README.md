@@ -1,1 +1,2 @@
-# cpputils
+# Helper c++ classes
+
